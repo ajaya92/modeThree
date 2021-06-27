@@ -1,0 +1,29 @@
+{
+  "name": "modthreetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaya92/modeThree.git"
+  },
+  "author": "Ajaya Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaya92/modeThree/issues"
+  },
+  "homepage": "https://github.com/ajaya92/modeThree#readme"
+}
